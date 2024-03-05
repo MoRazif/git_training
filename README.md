@@ -1,2 +1,4 @@
 # git_training
-This is DevOps Training - Day 2
+This is DevOps Training 
+<br>
+Day 2
